@@ -9,7 +9,7 @@ User authentication model using SQLAlchemy. Containerzed whole application using
 
 ## Docker Hub Deployment
 
-### Docker hub URL: <a href"https://hub.docker.com/r/lakshya1997/601_module10/tags">https://hub.docker.com/r/lakshya1997/601_module10/tags</a>
+### Docker hub URL: <a href="https://hub.docker.com/r/lakshya1997/601_module10/tags">https://hub.docker.com/r/lakshya1997/601_module10/tags</a>
 
 <img src="screenshots/docker_hub.png" width="80%">
 
